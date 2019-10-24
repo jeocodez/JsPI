@@ -1,0 +1,2 @@
+# JsPI
+Basic JavaScript Project
